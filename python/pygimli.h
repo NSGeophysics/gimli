@@ -34,7 +34,7 @@
 //typedef struct { long double x, y; } __float128;
 #endif
 
-//#define PYTEST
+#define PYTEST
 #ifdef PYTEST
 
 
